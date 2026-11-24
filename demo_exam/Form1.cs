@@ -79,6 +79,7 @@ namespace demo_exam
         }
 
         private void button2_Click(object sender, EventArgs e)
+
         {
             textsql.Text = @"SELECT 
                 r.num_room AS 'Номер', 
